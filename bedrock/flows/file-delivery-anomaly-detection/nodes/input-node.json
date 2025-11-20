@@ -1,0 +1,13 @@
+{
+    "nodeType": "FlowInputNode",
+    "nodeName": "FlowInputNode",
+    "output": {
+      "name": "document",
+      "type": "Object"
+    },
+    "schema": {
+      "clientId": "string",
+      "fileHistory": "array",
+      "currentTimestamp": "string"
+    }
+  }

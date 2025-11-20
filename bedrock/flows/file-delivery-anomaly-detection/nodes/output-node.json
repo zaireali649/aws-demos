@@ -1,0 +1,8 @@
+{
+    "nodeType": "FlowOutputNode",
+    "nodeName": "FlowOutputNode",
+    "input": {
+      "source": "PromptNode",
+      "name": "modelCompletion"
+    }
+  }
