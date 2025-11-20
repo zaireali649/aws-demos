@@ -11,10 +11,7 @@ Bedrock Flow that monitors client file deliveries from Kafka/Snowflake and detec
 ## Quick Start
 1. Import flow to Bedrock console
 2. Test with provided test cases
-3. See `demo-script.md` for full walkthrough
 
 ## Structure
 - `nodes/` - Individual node configurations
 - `test-cases/` - JSON test inputs
-- `architecture/` - Diagrams and production setup
-- `demo-script.md` - 20-minute demo guide
